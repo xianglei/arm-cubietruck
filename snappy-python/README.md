@@ -1,4 +1,4 @@
-A python based snappy compress tool
+A python based snappy compress/decompress tool
 Require:
 	python-snappy
 	OptParse
